@@ -1,0 +1,135 @@
+body{
+     background-color:hsl(0, 0%, 8%)
+
+}
+.back{ 
+    background-color: hsl(0, 0%, 12%);
+    border-radius: 15px;
+    transform: translate(-50% ,-50%);
+    text-align: center;
+    position: absolute;
+    height:90%;
+    width: 300px;
+    top: 50%;
+    left: 50%;
+    font-family:sans-serif
+}
+.im{ 
+    margin: 15px;
+}
+.im img{ 
+    border-radius: 50px;
+}
+h1{ 
+    color: hsl(0, 0%, 100%);
+    text-align: center;
+    font-size: 28px;
+    margin: -10px;
+}
+h2{ 
+    color: hsl(75, 94%, 57%);
+    text-align: center;
+    font-size: 17px;
+   
+}
+.star{ 
+    color: hsl(0, 0%, 80%);
+    text-align: center;
+    font-size: 14px;
+    margin: 20px;
+} 
+.c{ 
+    margin: 0px;
+}
+.xx a{ 
+    text-decoration: none;
+    position: relative; 
+    color: white;
+ 
+
+}
+
+.GitHub{
+   
+   
+    background-color: hsl(0, 0%, 20%);
+    text-align: center;
+   padding: 10px;
+   border-radius: 10px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin: 15px;
+   font-size: 18px;
+} 
+.GitHub:hover{ 
+    background-color:  hsl(75, 94%, 57%);
+    
+}
+.Frontend{
+   
+    font-size: 18px;
+    background-color: hsl(0, 0%, 20%);
+    text-align: center;
+   padding: 10px;
+   border-radius: 10px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin: 15px;
+}
+.Frontend:hover{ 
+    background-color:  hsl(75, 94%, 57%);
+    
+}
+.Linkedin{
+   
+   
+    background-color: hsl(0, 0%, 20%);
+    text-align: center;
+   padding: 10px;
+   border-radius: 10px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin: 15px;
+   font-size: 18px;
+}
+.Linkedin:hover{ 
+    background-color:  hsl(75, 94%, 57%);
+    
+}
+.Twitter{
+   
+    font-size: 18px;
+    background-color: hsl(0, 0%, 20%);
+    text-align: center;
+   padding: 10px;
+   border-radius: 10px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin: 15px;
+}
+.Twitter:hover{ 
+    background-color:  hsl(75, 94%, 57%);
+    
+}
+.Instagram{
+   
+    font-size: 18px;
+    background-color: hsl(0, 0%, 20%);
+    text-align: center;
+   padding: 10px;
+   border-radius: 10px;
+   margin-left: 20px;
+   margin-right: 20px;
+   margin: 15px;
+  
+}
+.Instagram:hover{ 
+    background-color:  hsl(75, 94%, 57%);
+    
+
+}
+.xx :hover{ 
+    color: black;
+    
+}
+
